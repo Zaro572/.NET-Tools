@@ -12,9 +12,10 @@ Programs included:
 -Text Editor
 -Windows Settings Finder
 
-Made with the C# programing language (.NET 5.0) wich means: lots of DLLs
+Made with the C# programing language (.NET 5.0) wich means: lots of DLLs (9)
 
-File size (compressed): ~123MB
+File size (ZIP-folder): ~126MB
+File size (installer): ~126MB
 File size (uncompressed): ~480MB
 
 Lots of unnecessary data for something that doesn't do much. Could probably be 10MB, I have no idea.
