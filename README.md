@@ -10,13 +10,13 @@ Programs included:
 -Ping
 -System Information
 -Text Editor
+-VBS MsgBox Generator
 -Windows Settings Finder
 
 Made with the C# programing language (.NET 5.0) wich means: lots of DLLs (9)
 
-File size (ZIP-folder): ~126MB
-File size (installer): ~126MB
-File size (uncompressed): ~480MB
+File size (compressed): ~140MB
+File size (uncompressed): ~546MB
 
 Lots of unnecessary data for something that doesn't do much. Could probably be 10MB, I have no idea.
 
